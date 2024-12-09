@@ -1,8 +1,8 @@
-using System.Collections.Generic;
-using DynamicBox.DynamicXRIntegration.Runtime.Domain;
+using DynamicBox.DynamicXRIntegration.Domain;
 using DynamicBox.EventManagement;
+using System.Collections.Generic;
 
-namespace DynamicBox.GameEvents
+namespace DynamicBox.DynamicXRIntegration.GameEvents
 {
 	public class RetrieveAssetsResponseEvent : GameEvent
 	{

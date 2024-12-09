@@ -1,6 +1,6 @@
 using DynamicBox.EventManagement;
 
-namespace DynamicBox.GameEvents
+namespace DynamicBox.DynamicXRIntegration.GameEvents
 {
 	public class RetrieveAssetsEvent : GameEvent
 	{

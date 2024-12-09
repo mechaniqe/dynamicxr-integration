@@ -1,4 +1,4 @@
-namespace DynamicBox.DynamicXRIntegration.Runtime.Domain
+namespace DynamicBox.DynamicXRIntegration.Domain
 {
 	public class AssetData
 	{
