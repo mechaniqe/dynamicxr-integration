@@ -1,7 +1,7 @@
 {
   "name": "net.dynamicbox.dynamicxrintegration",
   "displayName": "DynamicXR Integration",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "unity": "2019.2",
   "description": "This package contains \"DynamicXR Integration\" we use internally",
   "keywords": [
